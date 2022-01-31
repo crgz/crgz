@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 I am a Software Engineer passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and 
-[Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). I have been building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) since 1994. Now I spend most of my time engineering the present and the future tools to extract meaning from online retailers' offers. 
+[Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). After building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) I am now engineering the present and the future tools to extract meaning from online retailers' offers. 
 
 I work almost every waking hour. It is often painful and it is not recommended to put so many hours into work. I do it because of my painstaking perfectionism regarding [code Performance Metrics](https://www.red-gate.com/blog/software-development/learning-from-the-accelerate-four-key-metrics). I believe that the better they become the higher the chances for success in an ever changing environment. Also, I am from Costa Rica, the [second country with long working hours](https://news.co.cr/costa-ricans-among-hardest-working-world/57046/) according to the Organization for Economic Cooperation and Development (OECD).
 
