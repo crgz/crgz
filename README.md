@@ -1,4 +1,4 @@
-[<img alt="HoursWorked" width="40%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
+[<img alt="HoursWorked" width="30%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 
 ### Hi there 👋
 
