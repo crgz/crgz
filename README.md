@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-[<img alt="HoursWorked" width="30%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
+[<img alt="HoursWorked" width="50%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
+
+According to the Organization for Economic Cooperation and Development (OECD) the citizens of Mexico and Costa Rica are the ones that work the longest hours.
+
 <!--
 **crgz/crgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
