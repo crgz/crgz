@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[<img alt="HoursWorked" width="30%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 <!--
 **crgz/crgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
