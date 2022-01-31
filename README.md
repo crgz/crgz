@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-I am a Software Engineer pasionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and 
-[Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). I have been building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) since 1994. Now I spend most of my time engineering the present and the future tools to extract meaning from online retailers offers. 
+I am a Software Engineer passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and 
+[Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). I have been building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) since 1994. Now I spend most of my time engineering the present and the future tools to extract meaning from online retailers' offers. 
 
-I work almost every waking hour. Sometime it is painful and it is not recommended to put so many hours into work. I do it because of my painstaking perfectionism regarding code Performance Metrics. I believe that better Performance Metrics are the key to adapt to environmental challenges and increase the chances for succeess. Working long hours is also in my cultural background. I am comming from Costa Rica, the second country for long working hours according to the Organization for Economic Cooperation and Development (OECD).
+I work almost every waking hour. It is often painful and it is not recommended to put so many hours into work. I do it because of my painstaking perfectionism regarding code Performance Metrics. I believe that better Performance Metrics are the key to adapt to environmental challenges and increase the chances for success. Working long hours is also in my cultural background. I am coming from Costa Rica, the second country for long working hours according to the Organization for Economic Cooperation and Development (OECD).
 
 <!--
 **crgz/crgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
