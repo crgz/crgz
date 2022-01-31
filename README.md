@@ -1,4 +1,4 @@
-[<img alt="HoursWorked" width="40%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
+[<img alt="HoursWorked" width="30%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingrammer)](https://hits.seeyoufarm.com)
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 
-[<img alt="HoursWorked" width="40%" align="right" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
+[<img alt="HoursWorked" width="30%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
+
+I am working also in a minimal parser for Multilingual Incomplete & Abbreviated Dates. Please let me know your thoughts regarding the technical approach.
 
 [![mingrammer's github stats](https://github-readme-stats.vercel.app/api?username=crgz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
