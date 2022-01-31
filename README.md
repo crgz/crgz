@@ -1,4 +1,4 @@
-[<img alt="HoursWorked" width="30%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
+[<img alt="HoursWorked" width="35%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingrammer)](https://hits.seeyoufarm.com)
 
