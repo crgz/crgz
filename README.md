@@ -1,9 +1,9 @@
+[<img alt="HoursWorked" width="40%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
+
 ### Hi there 👋
 
 I am a Software Engineer pasionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and 
 [Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). I have been building all sort of Internet Applications since 1994. Now I spend most of my time engineering the present and the future tools to meaning from online retailers offers. 
-
-[<img alt="HoursWorked" width="40%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 
 I use to work every waking hour. I know it is painful to work long hours and it is not recommended to anyone to put so many hours into work. I do it because 
 of my painstaking perfectionism regarding code Performance Metrics. I believe that better Performance Metrics are the key to react to environmental challenges and increase the chances for succeess. 
