@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 
 
+[<img alt="HoursWorked" width="40%" align="right" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
+
 [![mingrammer's github stats](https://github-readme-stats.vercel.app/api?username=crgz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
