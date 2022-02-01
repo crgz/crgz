@@ -13,18 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img alt="HoursWorked" width="30%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingrammer)](https://hits.seeyoufarm.com)
 
-### Hi there 👋
+I am passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and [Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). After building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) I am now engineering the present and the future tools to extract meaning from online retailers' offers. 
 
-I am a Software Engineer passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and 
-[Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). After building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) I am now engineering the present and the future tools to extract meaning from online retailers' offers. 
+[<img alt="HoursWorked" width="50%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 
 I work almost every waking hour. It is often painful and it is not recommended to put so many hours into work. I do it because of my painstaking perfectionism regarding [code Performance Metrics](https://www.red-gate.com/blog/software-development/learning-from-the-accelerate-four-key-metrics). I believe that the better they become the higher the chances for success in an ever changing environment. Also, I am from Costa Rica, the [second country with long working hours](https://news.co.cr/costa-ricans-among-hardest-working-world/57046/) according to the Organization for Economic Cooperation and Development (OECD).
 
-[<img alt="HoursWorked" width="30%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
+[<img alt="HoursWorked" width="50%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
 
 I am working also on a minimal parser for [Multilingual Incomplete & Abbreviated Dates](https://github.com/crgz/fuzzy_dates). Please let me know your thoughts regarding the technical approach.
 
