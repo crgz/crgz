@@ -19,7 +19,7 @@ I am passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Rei
 
 [<img alt="HoursWorked" width="40%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
 
-I work almost every waking hour. It is often painful and it is not recommended to put so many hours into work. I do it because of my painstaking perfectionism regarding [code Performance Metrics](https://www.red-gate.com/blog/software-development/learning-from-the-accelerate-four-key-metrics). I believe that the better they become the higher the chances for success in an ever changing environment. Also, I am from Costa Rica, the [second country with long working hours](https://news.co.cr/costa-ricans-among-hardest-working-world/57046/) according to the Organization for Economic Cooperation and Development (OECD).
+I work almost every waking hour probably because I am from Costa Rica, the [second country with long working hours](https://news.co.cr/costa-ricans-among-hardest-working-world/57046/) according to the Organization for Economic Cooperation and Development (OECD). It is often painful and it is not recommended to put so many hours into work.
 
 [<img alt="HoursWorked" width="40%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
 
