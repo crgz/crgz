@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I am passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and [Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). After building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) I am now engineering the present and the future tools to extract meaning from online retailers' offers. 
 
-[<img alt="HoursWorked" width="40%" align="right" src="https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png"/>](https://news.co.cr/wp-content/uploads/2017/02/HoursWorked.png)
-
 I work almost every waking hour probably because I am from Costa Rica, the [second country with long working hours](https://news.co.cr/costa-ricans-among-hardest-working-world/57046/) according to the Organization for Economic Cooperation and Development (OECD). It is often painful and it is not recommended to put so many hours into work.
 
 [<img alt="HoursWorked" width="40%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
