@@ -21,6 +21,6 @@ I work almost every waking hour probably because I am from Costa Rica, the [seco
 
 [<img alt="HoursWorked" width="40%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
 
-I am working also on a minimal parser for [Multilingual Incomplete & Abbreviated Dates](https://github.com/crgz/fuzzy_dates). Please let me know your thoughts regarding the technical approach.
+I am working also on a minimalistic parser for [Multilingual Incomplete & Abbreviated Dates](https://github.com/crgz/fuzzy_dates). Please let me know your thoughts regarding the technical approach.
 
 [![mingrammer's github stats](https://github-readme-stats.vercel.app/api?username=crgz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
