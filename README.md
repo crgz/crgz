@@ -19,7 +19,7 @@ I am passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Rei
 
 I work almost every waking hour probably because I am from Costa Rica, the [second country with long working hours](https://news.co.cr/costa-ricans-among-hardest-working-world/57046/) according to the Organization for Economic Cooperation and Development (OECD). It is often painful and it is not recommended to put so many hours into work.
 
-[<img alt="HoursWorked" width="40%" align="left" src="https://raw.githubusercontent.com/crgz/fuzzy_dates/master/.github/flags-jakearchibald.github.io-scour.svg"/>](https://github.com/crgz/fuzzy_dates)
+[<img alt="HoursWorked" width="40%" align="left" src="https://raw.githubusercontent.com/crgz/abbreviated_dates/main/.github/images/logo.svg"/>](https://github.com/crgz/fuzzy_dates)
 
 I am working also on a minimalistic parser for [Multilingual Incomplete & Abbreviated Dates](https://github.com/crgz/fuzzy_dates). Please let me know your thoughts regarding the technical approach.
 
