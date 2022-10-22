@@ -31,29 +31,23 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Using classic charts
+      - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stargazers.svg
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.PAT }}
           base: ""
-          plugin_stargazers: yes
-      - name: Using chartist charts
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+      - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stargazers.chartist.svg
+          filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.PAT }}
           base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-      - name: With worldmap
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.worldmap.svg
-          token: ${{ secrets.PAT }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
