@@ -3,7 +3,7 @@
 I am passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and [Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). After building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) I am now engineering the present and the future tools to extract meaning from online retailers' offers. I am working also on a minimalistic parser for [Multilingual Incomplete & Abbreviated Dates](https://github.com/crgz/fuzzy_dates). Please let me know your thoughts regarding the technical approach.
 [![mingrammer's github stats](https://github-readme-stats.vercel.app/api?username=crgz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="https://raw.githubusercontent.com/crgz/crgz/2a60dd548e8e94e31bfccf9aad25b78925caa565/github-metrics.svg" alt="Metrics" width="400">
 <img align="center" src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="400">
 <img align="center" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
 
