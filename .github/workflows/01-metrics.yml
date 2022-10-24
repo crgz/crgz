@@ -23,11 +23,13 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          config_display: columns
 
           # Options
           user: crgz
           template: classic
           base: header, activity, community, repositories, metadata
+          config_order: base.header, isocalendar, languages, stars
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: detailed
