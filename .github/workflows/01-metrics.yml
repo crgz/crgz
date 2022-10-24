@@ -32,10 +32,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_order: base.header, isocalendar, languages, stars
           config_timezone: Europe/Berlin
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
@@ -65,11 +61,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -77,47 +68,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_people: yes
-          plugin_people_identicons: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
 
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: general.svg
-          token: ${{ secrets.PAT }}
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
@@ -131,3 +84,42 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_people: yes
+          plugin_people_identicons: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_habits_trim: yes
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
