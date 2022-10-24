@@ -22,23 +22,7 @@ jobs:
           token: ${{ secrets.PAT }}
           base: ""
           plugin_isocalendar: yes
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.PAT }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
-      - name: Detailed display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.PAT }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
