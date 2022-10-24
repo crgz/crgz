@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingrammer)](https://hits.seeyoufarm.com)
 
-[<img alt="abbreviated_dates" width="40%" align="right" src="https://raw.githubusercontent.com/crgz/abbreviated_dates/main/.github/images/logo.svg"/>](https://github.com/crgz/abbreviated_dates)
 I am passionate about [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) and [Artificial (generic) Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). After building [all sort of Internet Applications](https://www.linkedin.com/in/conradom) I am now engineering the present and the future tools to extract meaning from online retailers' offers. I am working also on a minimalistic parser for [Multilingual Incomplete & Abbreviated Dates](https://github.com/crgz/fuzzy_dates). Please let me know your thoughts regarding the technical approach.
 
 
